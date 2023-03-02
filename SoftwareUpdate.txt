@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
